@@ -1,0 +1,21 @@
+
+
+sf
+
+
+
+
+Model> Advantage2
+Firmware> 1.0.46.us (2MB), 08/24/2016
+Active layout file> qwerty.txt
+Thumb keys mode> pc
+Macro play status> active
+Macro play speed> slow=1, normal=3, fast=9> 3
+Status report play speed> slow=1, normal=3, fast=4> 3
+Keyclick status. off
+Toggle tone status> on
+Stored macros> 0
+Keys remapped> 6
+
+
+

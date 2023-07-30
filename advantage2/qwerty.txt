@@ -1,0 +1,6 @@
+[caps]>[tab]
+[up]>[down]
+[down]>[up]
+[intl-\]>[\]
+[rwin]>[ralt]
+[kp-rwin]>[kp-ralt]
